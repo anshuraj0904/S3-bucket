@@ -18,3 +18,5 @@ def create_bucket():
     else:
         print("Not enough arguments to move ahead!")
         sys.exit(1)
+
+create_bucket()        
