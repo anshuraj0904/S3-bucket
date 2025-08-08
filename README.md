@@ -9,10 +9,10 @@ sys
 dotenv
 ```
 
-Required Installations:
+Required Installation commands:
 ``` bash
-boto3
-dotenv
+pip install boto3
+pip install dotenv
 ```
 
 Add the following in your .env file:
