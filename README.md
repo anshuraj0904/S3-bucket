@@ -1,4 +1,4 @@
-# A simple code file for creating, listing and deleting the S3 buckets.
+# Simple codes file for creating, listing and deleting the S3 buckets.
 
 
 Required Libraries:
